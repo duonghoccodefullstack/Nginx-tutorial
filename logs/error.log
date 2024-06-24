@@ -1,0 +1,8 @@
+2024/06/23 20:03:27 [warn] 11508#19600: "user" is not supported, ignored in C:\nginx\nginx-1.26.1/conf/nginx.conf:2
+2024/06/23 20:03:27 [warn] 19036#16432: "user" is not supported, ignored in C:\nginx\nginx-1.26.1/conf/nginx.conf:2
+2024/06/23 20:03:30 [warn] 19756#10972: "user" is not supported, ignored in C:\nginx\nginx-1.26.1/conf/nginx.conf:2
+2024/06/23 20:03:30 [warn] 17740#14436: "user" is not supported, ignored in C:\nginx\nginx-1.26.1/conf/nginx.conf:2
+2024/06/23 20:33:55 [error] 6696#14984: *1 CreateFile() "C:\nginx\nginx-1.26.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/06/23 20:42:31 [error] 6696#14984: *4 CreateFile() "C:\nginx\nginx-1.26.1/html/style.css" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /style.css HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/06/23 21:41:44 [error] 6640#9560: *1 CreateFile() "C:\nginx\nginx-1.26.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/06/23 21:43:30 [emerg] 13888#6912: invalid number of arguments in "root" directive in C:\nginx\nginx-1.26.1/conf/nginx.conf:43
